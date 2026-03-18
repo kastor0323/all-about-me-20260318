@@ -1,14 +1,10 @@
-all about me
+# All about me
 
-이름 : 백정현
+## 프로젝트 소개
+나에 대한 정보를 기능 단위 문서로 관리하는 저장소
 
-나이 : 27
-
-사는 곳 : *경기도 수원*
-
-MBTI : **INFJ**
-
-직군 : 웹 서버 백엔드 개발자 
-```bash
-print("Hello my friend")
-```
+## 문서 목록
+- profile
+- tech-stack
+- workstyle
+- favorites
